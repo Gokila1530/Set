@@ -14,6 +14,7 @@ namespace Set
             mySet.Add("C#");
             mySet.Add("Java");
             mySet.Add("C++");
+            mySet.Add("CSharp");
 
             foreach (var val in mySet)
             {
